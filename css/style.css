@@ -1,0 +1,85 @@
+ul{
+    list-style: none;
+    margin: 0px;
+    background-color: antiquewhite;
+    padding: 0px;
+
+    overflow: hidden;
+
+}
+
+
+
+li{
+        float: left;
+
+    }
+li,a{padding: 10px;
+    color: #28282d;
+    margin: 10px;
+
+   }
+li{
+    font-family: Gubbi;
+    background-color: dodgerblue;
+}
+
+li a:hover{
+    background-color: lightslategrey;
+}
+th,td{
+    border: 20px dotted black;
+    padding: 10px;
+    margin: 10px;
+    font-family: "DejaVu Sans Mono";
+    color:black;
+    background-color: silver;
+}
+table{
+    border-collapse: collapse;
+    width: 100%;
+
+}
+.fruits{
+    border:2px solid saddlebrown ;
+    background-color: blanchedalmond;
+    color: black;
+    text-align: center;
+    padding: 20px;
+    margin: 20px;
+}
+.cars{
+
+    border: 3px dotted blue;
+    background-color: #28282d;
+    color: white;
+
+    text-align: center;
+}
+form{
+    background-color: #cbcbcb;
+    color: black;
+    margin: 100px;
+    padding: 100px;
+
+}
+option{
+    background-color: black;
+    color: white
+
+}
+body{
+    background-color: deepskyblue
+}
+
+formbody{
+        padding: 10px;
+        margin: 10px;
+
+    }
+
+input{
+    background-color: black;
+    color: white
+
+ }
